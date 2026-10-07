@@ -1,0 +1,116 @@
+{
+  "item": {
+    "id": "com.ljl.ljtalk",
+    "restype": "quick_app",
+    "name": "腕聊",
+    "description": "腕聊让小米手环变身随身聊天器：手机端 App 在后台收发消息，手环端快应用抬腕即读、直接用手环回一句，不用掏手机。实现手环1-手机1-云端服务器-手机2-手环2。新消息手环震动提醒；手环和手机断连期间收到的消息，重连后自动补齐，一条不丢。适合上课、运动、通勤时快速回复，两端都安装后按教程连一次即可开聊。开箱即用，不用配置。\n有疑问或者反馈请移步外部链接（手机端下载链接）",
+    "preview": [
+      "media/phone_ljtalk2.png",
+      "media/s4_ni-164_380.png",
+      "media/s4_home.png"
+    ],
+    "icon": "media/ScreenShot_2026-10-07_204143_202_500.png",
+    "cover": "media/cover_3x2_v3.jpg",
+    "author": [
+      {
+        "name": "bandbbs_4959126",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "手机端下载链接",
+      "url": "https://ljltalk.ct.ws/",
+      "icon": "globe"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmrw5xring": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmrw6": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmb10": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmb10nfc": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmb10p": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmb11": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmb11nfc": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmb9": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmb9p": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmws3": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmws4xring": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmws441": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmws4": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmws541": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "xmws5": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    },
+    "vivowgt2": {
+      "version": "0.6.4",
+      "file_name": "downloads/LJTalk-0.6.4.rpk",
+      "versionCode": 45
+    }
+  },
+  "ext": {}
+}
